@@ -10,9 +10,9 @@ redirect_from:
 
 My name is Xuanyu Shi.
 
-I am currently a health data science PhD student at the National Insititute of Health Data Science, Peking University. My research interests include biomedical literature mining, automatic evidence synthesis, health causal knowledge network, etc.
+I am currently a health data science PhD student at the National Insititute of Health Data Science, Peking University. My research interests include biomedical literature mining, automatic evidence synthesis, and health causal knowledge network.
 
-My PhD supervisor: [Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm)
+My PhD supervisor: [Dr. Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm)
 
 Education
 ======
