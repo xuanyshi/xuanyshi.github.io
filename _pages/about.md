@@ -26,5 +26,5 @@ Working Experience
 
 2020-2022, Research assistant, National Institute of Health Data Science, Peking University, Beijing, China \
 2018-2018, Summer intern, Department of Data Platform, Megvii, Beijing, China \
-2017-2017, Business analyst intern, Forepont Capital Partners, New York, NY, USA
-
+2017-2017, Business analyst intern, Forepont Capital Partners, New York, NY, USA \
+2016-2016, Risk management intern, Department of Risk Management, Generali China, Beijing, China
