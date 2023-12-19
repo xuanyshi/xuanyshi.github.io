@@ -18,7 +18,7 @@ Education
 ======
 
 2022-2026, PhD, Health Data Science, Peking University  
-2018-2020, MS, Data Science, Drexel University
+2018-2020, MS, Data Science, Drexel University \
 2013-2017, BS, Statistics, University of Iowa
 
 Working Experience
