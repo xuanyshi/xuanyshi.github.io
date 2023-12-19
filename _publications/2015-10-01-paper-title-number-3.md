@@ -6,10 +6,10 @@ permalink: /publication/2015-10-01-paper-title-number-3
 date: 'May 2022'
 venue: 'Journal of Informetrics'
 #paperurl: 'https://www.sciencedirect.com/science/article/pii/S1751157722000141'
-citation: 'Shi X, Du J. Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences[J]. Journal of Informetrics, 2022, 16(2): 101262.'
+#citation: 'Shi X, Du J. Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences[J]. Journal of Informetrics, 2022, 16(2): 101262.'
 ---
 <!-- This paper is about the number 3. The number 4 is left for future work. -->
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper3.pdf) -->
 
-<!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
+Recommended citation: “Shi X, Du J. Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences[J]. Journal of Informetrics, 2022, 16(2): 101262.”
