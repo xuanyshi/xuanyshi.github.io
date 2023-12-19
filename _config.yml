@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuanyu Shi personal page"
+title                    : "Xuanyu Shi"
 title_separator          : "-"
 name                     : &name "Xuanyu Shi"
 description              : &description "personal description"
