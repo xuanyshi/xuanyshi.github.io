@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xuanyu Shi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Health Data Science PhD student"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Peking University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ImrZzA8AAAAJ&hl=zh-CN"
   email            :
