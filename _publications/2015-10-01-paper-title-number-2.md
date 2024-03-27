@@ -5,7 +5,7 @@ collection: publications
 #excerpt: 'A machine learning classifier '
 date: 'Jan 2024'
 venue: 'Scientific Data'
-paperurl: 'https://www.nature.com/articles/s41597-023-02869-7'
+link: 'https://doi.org/10.1038/s41597-023-02869-7'
 citation: 'Shi, Xuanyu, and Jian Du. "Constructing a finer-grained representation of clinical trial results from ClinicalTrials. gov." Scientific Data 11.1 (2024): 41.'
 ---
 <!-- This paper is about the number 3. The number 4 is left for future work. -->

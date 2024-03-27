@@ -5,7 +5,7 @@ collection: publications
 #excerpt: 'A machine learning classifier '
 date: 'May 2022'
 venue: 'Journal of Informetrics'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1751157722000141'
+link: 'https://doi.org/10.1016/j.joi.2022.101262'
 citation: 'Shi, Xuanyu, and Jian Du. "Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences." Journal of Informetrics 16.2 (2022): 101262.'
 ---
 <!-- This paper is about the number 3. The number 4 is left for future work. -->
