@@ -32,16 +32,16 @@ Working Experience
 Publications
 ======
 
-[**Annals of the New York Academy of Sciences** 2025] Li L, Du J, Sun F, et al. Diet therapy for the management of obesity in children and adolescents: Overview of systematic reviews and meta‐analysis of randomized controlled trials. **Annals of the New York Academy of Sciences**, 2025, 1547(1): 41-51.
+[**Annals of the New York Academy of Sciences 2025**] Li L, Du J, Sun F, et al. Diet therapy for the management of obesity in children and adolescents: Overview of systematic reviews and meta‐analysis of randomized controlled trials. Annals of the New York Academy of Sciences, 2025, 1547(1): 41-51.
 
-[**Annals of the New York Academy of Sciences** 2025] Li L, Sun F, Du J, et al. Behavior‐change lifestyle interventions for the treatment of obesity in children and adolescents: A scoping review. **Annals of the New York Academy of Sciences**, 2025, 1543(1): 31-41.
+[**Annals of the New York Academy of Sciences 2025**] Li L, Sun F, Du J, et al. Behavior‐change lifestyle interventions for the treatment of obesity in children and adolescents: A scoping review. Annals of the New York Academy of Sciences, 2025, 1543(1): 31-41.
 
-[**Health Data Science** 2024] **Xuanyu Shi**, Yin D, Bai Y, et al. A bibliographic dataset of health artificial intelligence research. **Health Data Science**, 2024, 4: 0125.
+[**Health Data Science 2024**] **Xuanyu Shi**, Yin D, Bai Y, et al. A bibliographic dataset of health artificial intelligence research. Health Data Science, 2024, 4: 0125.
 
-[**Preprint** 2024] **Xuanyu Shi**, Zhao W, Yang C, et al. EvidenceTriangulator: A Large Language Model Approach to Synthesizing Causal Evidence across Study Designs. 2024.
+[**Preprint 2024**] **Xuanyu Shi**, Zhao W, Yang C, et al. EvidenceTriangulator: A Large Language Model Approach to Synthesizing Causal Evidence across Study Designs. 2024.
 
-[**Journal of Evidence‐Based Medicine** 2024] Bai Y, **Xuanyu Shi**, Du J. A computable biomedical knowledge system: Toward rapidly building candidate‐directed acyclic graphs. **Journal of Evidence‐Based Medicine**, 2024, 17(2): 307-316.
+[**Journal of Evidence‐Based Medicine 2024**] Bai Y, **Xuanyu Shi**, Du J. A computable biomedical knowledge system: Toward rapidly building candidate‐directed acyclic graphs. Journal of Evidence‐Based Medicine, 2024, 17(2): 307-316.
 
-[**Scientific Data** 2024] **Xuanyu Shi**, and Jian Du. Constructing a finer-grained representation of clinical trial results from ClinicalTrials.gov. **Scientific Data**, 2024, 11(1): 41.
+[**Scientific Data 2024**] **Xuanyu Shi**, and Jian Du. Constructing a finer-grained representation of clinical trial results from ClinicalTrials.gov. Scientific Data, 2024, 11(1): 41.
 
-[**Journal of Informetrics** 2022] **Xuanyu Shi**, and Jian Du. Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences. **Journal of Informetrics**, 2022, 16(2): 101262.
+[**Journal of Informetrics 2022**] **Xuanyu Shi**, and Jian Du. Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences. Journal of Informetrics, 2022, 16(2): 101262.
