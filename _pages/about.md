@@ -43,6 +43,8 @@ Journal reviewer:
 Publications {#publications}
 ======
 
+**[Science Bulletin 2025]** Xin Guo, Jiakang Huo, Wanwei Dai, Tong Wang, Han Xiao, Wenjing Zhao, **Xuanyu Shi**, Xueheng Wang, Yang Gao, Zhi Li, Rui Zhan, Wenli Xu, Jian Du, Erdan Dong. [Global rehabilitation research equality index across health conditions during 1990–2019: an alignment analysis between bibliographic and epidemiological data](https://www.sciencedirect.com/science/article/pii/S2095927325001744). Science Bulletin, 2025, 70(7): 1057-1061.
+
 **[Annals of the New York Academy of Sciences 2025]** Liubai Li, Jian Du, Feng Sun, Zhixia Li, Tianjiao Chen, **Xuanyu Shi**. [Diet therapy for the management of obesity in children and adolescents: Overview of systematic reviews and meta‐analysis of randomized controlled trials](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.15307). Annals of the New York Academy of Sciences, 2025, 1547(1): 41-51.
 
 **[Annals of the New York Academy of Sciences 2025]** Liubai Li, Feng Sun, Jian Du, Zhixia Li, Tianjiao Chen, **Xuanyu Shi**. [Behavior‐change lifestyle interventions for the treatment of obesity in children and adolescents: A scoping review](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.15278). Annals of the New York Academy of Sciences, 2025, 1543(1): 31-41.
