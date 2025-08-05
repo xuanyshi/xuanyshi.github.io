@@ -43,21 +43,21 @@ Journal reviewer:
 Publications {#publications}
 ======
 
-**[Science Bulletin 2025]** Xin Guo, Jiakang Huo, Wanwei Dai, Tong Wang, Han Xiao, Wenjing Zhao, **Xuanyu Shi**, Xueheng Wang, Yang Gao, Zhi Li, Rui Zhan, Wenli Xu, Jian Du, Erdan Dong. [Global rehabilitation research equality index across health conditions during 1990–2019: an alignment analysis between bibliographic and epidemiological data](https://www.sciencedirect.com/science/article/pii/S2095927325001744). Science Bulletin, 2025, 70(7): 1057-1061.
+**[<span style="color: blue; font-weight: bold;">1st author</span>, Science Bulletin 2025]** Xin Guo, Jiakang Huo, Wanwei Dai, Tong Wang, Han Xiao, Wenjing Zhao, **Xuanyu Shi**, Xueheng Wang, Yang Gao, Zhi Li, Rui Zhan, Wenli Xu, Jian Du, Erdan Dong. [Global rehabilitation research equality index across health conditions during 1990–2019: an alignment analysis between bibliographic and epidemiological data](https://www.sciencedirect.com/science/article/pii/S2095927325001744). Science Bulletin, 2025, 70(7): 1057-1061.
 
 **[Annals of the New York Academy of Sciences 2025]** Liubai Li, Jian Du, Feng Sun, Zhixia Li, Tianjiao Chen, **Xuanyu Shi**. [Diet therapy for the management of obesity in children and adolescents: Overview of systematic reviews and meta‐analysis of randomized controlled trials](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.15307). Annals of the New York Academy of Sciences, 2025, 1547(1): 41-51.
 
 **[Annals of the New York Academy of Sciences 2025]** Liubai Li, Feng Sun, Jian Du, Zhixia Li, Tianjiao Chen, **Xuanyu Shi**. [Behavior‐change lifestyle interventions for the treatment of obesity in children and adolescents: A scoping review](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.15278). Annals of the New York Academy of Sciences, 2025, 1543(1): 31-41.
 
-**[Health Data Science 2024]** **Xuanyu Shi**, Daoxin Yin, Yongmei Bai, Wenjing Zhao, Xin Guo, Huage Sun, Dongliang Cui, Jian Du. [A Bibliographic Dataset of Health Artificial Intelligence Research](https://spj.science.org/doi/full/10.34133/hds.0125). Health Data Science, 2024, 4: 0125.
+**[<span style="color: blue; font-weight: bold;">1st author</span>, Health Data Science 2024]** **Xuanyu Shi**, Daoxin Yin, Yongmei Bai, Wenjing Zhao, Xin Guo, Huage Sun, Dongliang Cui, Jian Du. [A Bibliographic Dataset of Health Artificial Intelligence Research](https://spj.science.org/doi/full/10.34133/hds.0125). Health Data Science, 2024, 4: 0125.
 
-**[Preprint 2024]** **Xuanyu Shi**, Wenjing Zhao, Ting Chen, Chao Yang, Jian Du. [A Large Language Model Approach to Extracting Causal Evidence across Study Designs for Evidence Triangulation](https://www.medrxiv.org/content/10.1101/2024.03.18.24304457v3). 2024.
+**[<span style="color: blue; font-weight: bold;">1st author</span>, Preprint 2024]** **Xuanyu Shi**, Wenjing Zhao, Ting Chen, Chao Yang, Jian Du. [A Large Language Model Approach to Extracting Causal Evidence across Study Designs for Evidence Triangulation](https://www.medrxiv.org/content/10.1101/2024.03.18.24304457v3). 2024.
 
 **[Journal of Evidence‐Based Medicine 2024]** Yongmei Bai, **Xuanyu Shi**, Jian Du. [A computable biomedical knowledge system: Toward rapidly building candidate‐directed acyclic graphs](https://onlinelibrary.wiley.com/doi/abs/10.1111/jebm.12602). Journal of Evidence‐Based Medicine, 2024, 17(2): 307-316.
 
-**[Scientific Data 2024]** **Xuanyu Shi**, Jian Du. [Constructing a finer-grained representation of clinical trial results from ClinicalTrials.gov](https://www.nature.com/articles/s41597-023-02869-7). Scientific Data, 2024, 11(1): 41.
+**[<span style="color: blue; font-weight: bold;">1st author</span>, Scientific Data 2024]** **Xuanyu Shi**, Jian Du. [Constructing a finer-grained representation of clinical trial results from ClinicalTrials.gov](https://www.nature.com/articles/s41597-023-02869-7). Scientific Data, 2024, 11(1): 41.
 
-**[Journal of Informetrics 2022]** **Xuanyu Shi**, Jian Du. [Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences](https://www.sciencedirect.com/science/article/pii/S1751157722000141). Journal of Informetrics, 2022, 16(2): 101262.
+**[<span style="color: blue; font-weight: bold;">1st author</span>, Journal of Informetrics 2022]** **Xuanyu Shi**, Jian Du. [Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences](https://www.sciencedirect.com/science/article/pii/S1751157722000141). Journal of Informetrics, 2022, 16(2): 101262.
 
 **[Frontiers of Medicine 2022]** Huai-yu Wang, Suyuan Peng, Zhanghui Ye, Pengfei Li, Qing Li, **Xuanyu Shi**, Rui Zeng, Ying Yao, Fan He, Junhua Li, Liu Liu, Shuwang Ge, Xianjun Ke, Zhibin Zhou, Gang Xu, Ming-hui Zhao, Haibo Wang, Luxia Zhang, Erdan Dong. [Renin-angiotensin system inhibitor is associated with the reduced risk of all-cause mortality in COVID-19 among patients with/without hypertension](https://link.springer.com/article/10.1007/s11684-021-0850-9). Frontiers of Medicine, 2022, 16(1): 102-110.
 
