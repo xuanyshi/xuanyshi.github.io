@@ -14,6 +14,8 @@ I am currently a Health Data Science PhD Candidate at the National Institute of 
 
 My PhD supervisor: [Dr. Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm)
 
+[Publications](#publications)
+
 Education
 ======
 
@@ -40,7 +42,7 @@ Journal reviewer:
 - Frontiers in Endocrinology
 - Frontiers in Public Health
 
-Publications
+Publications {#publications}
 ======
 
 **[Annals of the New York Academy of Sciences 2025]** Liubai Li, Jian Du, Feng Sun, Zhixia Li, Tianjiao Chen, **Xuanyu Shi**. [Diet therapy for the management of obesity in children and adolescents: Overview of systematic reviews and meta‐analysis of randomized controlled trials](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.15307). Annals of the New York Academy of Sciences, 2025, 1547(1): 41-51.
