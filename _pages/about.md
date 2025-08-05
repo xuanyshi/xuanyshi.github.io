@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Xuanyu Shi.
 
-I am currently a Health Data Science PhD Candidate at the National Institute of Health Data Science, Peking University. My research interests include biomedical literature mining, automatic evidence synthesis, and health causal knowledge network.
+I am currently a Health Data Science PhD Candidate at the National Institute of Health Data Science, Peking University. My research interests include biomedical literature mining, automatic evidence synthesis, health causal knowledge network, and AI for evidence-based medicine.
 
 My PhD supervisor: [Dr. Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm)
 
@@ -29,6 +29,17 @@ Working Experience
 2017-2018, Business analyst intern, Forepont Capital Partners, New York, NY, USA \
 2016-2016, Risk management intern, Department of Risk Management, Generali China, Beijing, China
 
+Academic Services
+======
+
+Conference reviewer:
+- AMIA 2025
+
+Journal reviewer:
+- Health Data Science
+- Frontiers in Endocrinology
+- Frontiers in Public Health
+
 Publications
 ======
 
@@ -45,14 +56,3 @@ Publications
 **[Scientific Data 2024]** **Xuanyu Shi**, Jian Du. [Constructing a finer-grained representation of clinical trial results from ClinicalTrials.gov](https://www.nature.com/articles/s41597-023-02869-7). Scientific Data, 2024, 11(1): 41.
 
 **[Journal of Informetrics 2022]** **Xuanyu Shi**, Jian Du. [Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences](https://www.sciencedirect.com/science/article/pii/S1751157722000141). Journal of Informetrics, 2022, 16(2): 101262.
-
-Academic Services
-======
-
-Conference reviewer:
-- AMIA 2025
-
-Journal reviewer:
-- Health Data Science
-- Frontiers in Endocrinology
-- Frontiers in Public Health
