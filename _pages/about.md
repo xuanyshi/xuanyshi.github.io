@@ -14,8 +14,6 @@ I am currently a Health Data Science PhD Candidate at the National Institute of 
 
 My PhD supervisor: [Dr. Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm)
 
-[Publications](#publications)
-
 Education
 ======
 
