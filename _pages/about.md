@@ -43,6 +43,8 @@ Journal reviewer:
 Publications {#publications}
 ======
 
+**[<span style="color: blue; font-weight: bold;">1st author</span>, Nature Communications 2025]** **Xuanyu Shi**, Wenjing Zhao, Ting Chen, Chao Yang, Jian Du. [Evidence triangulator: using large language models to extract and synthesize causal evidence across study designs](https://www.nature.com/articles/s41467-025-62783-x). Nature Communications, 2025, 16: 7355.
+
 **[Science Bulletin 2025]** Xin Guo, Jiakang Huo, Wanwei Dai, Tong Wang, Han Xiao, Wenjing Zhao, **Xuanyu Shi**, Xueheng Wang, Yang Gao, Zhi Li, Rui Zhan, Wenli Xu, Jian Du, Erdan Dong. [Global rehabilitation research equality index across health conditions during 1990–2019: an alignment analysis between bibliographic and epidemiological data](https://www.sciencedirect.com/science/article/pii/S2095927325001744). Science Bulletin, 2025, 70(7): 1057-1061.
 
 **[Annals of the New York Academy of Sciences 2025]** Liubai Li, Jian Du, Feng Sun, Zhixia Li, Tianjiao Chen, **Xuanyu Shi**. [Diet therapy for the management of obesity in children and adolescents: Overview of systematic reviews and meta‐analysis of randomized controlled trials](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.15307). Annals of the New York Academy of Sciences, 2025, 1547(1): 41-51.
