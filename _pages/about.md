@@ -59,6 +59,8 @@ Publications {#publications}
 
 **[<span style="color: blue; font-weight: bold;">1st author</span>, Scientific Data 2024]** **Xuanyu Shi**, Jian Du. [Constructing a finer-grained representation of clinical trial results from ClinicalTrials.gov](https://www.nature.com/articles/s41597-023-02869-7). Scientific Data, 2024, 11(1): 41.
 
+**[<span style="color: blue; font-weight: bold;">1st author</span>, ISSI 2023]** **Xuanyu Shi**, Shiyao Xie, Wenjia Wang, Ting Chen, Jian Du. [An automated approach to extracting positive and negative clinical research results](https://arxiv.org/abs/2212.03464). Proceedings of the 19th International Conference of the International Society for Scientometrics and Informetrics, 2023, 1: 571-578.
+
 **[<span style="color: blue; font-weight: bold;">1st author</span>, Journal of Informetrics 2022]** **Xuanyu Shi**, Jian Du. [Distinguishing transformative from incremental clinical evidence: A classifier of clinical research using textual features from abstracts and citing sentences](https://www.sciencedirect.com/science/article/pii/S1751157722000141). Journal of Informetrics, 2022, 16(2): 101262.
 
 **[Frontiers of Medicine 2022]** Huai-yu Wang, Suyuan Peng, Zhanghui Ye, Pengfei Li, Qing Li, **Xuanyu Shi**, Rui Zeng, Ying Yao, Fan He, Junhua Li, Liu Liu, Shuwang Ge, Xianjun Ke, Zhibin Zhou, Gang Xu, Ming-hui Zhao, Haibo Wang, Luxia Zhang, Erdan Dong. [Renin-angiotensin system inhibitor is associated with the reduced risk of all-cause mortality in COVID-19 among patients with/without hypertension](https://link.springer.com/article/10.1007/s11684-021-0850-9). Frontiers of Medicine, 2022, 16(1): 102-110.
